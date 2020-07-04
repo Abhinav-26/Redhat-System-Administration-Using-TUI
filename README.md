@@ -9,7 +9,7 @@ To run the Application in terminal
 run "python3 MainMenu.py" in Your Terminal.
 
 When you Run the application it will ask for Username and Password.<br>
-Username is "authority"
+Username is "authority"<br>
 Password is "abhinav"
 <br><br><br>
 
