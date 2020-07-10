@@ -8,9 +8,9 @@ In  this repository different modules are being created but all are linked to Ma
 To run the Application in terminal 
 run "python3 MainMenu.py" in Your Terminal.
 
-When you Run the application it will ask for Username and Password.
-Username is "auth"
-Password is "abhi"
+When you Run the application it will ask for Username and Password.<br>
+USERNAME : "authority"<br>
+PASSWORD : "abhinav"
 <br><br><br>
 
 NOTE :<b> I AM STILL WORKING ON THIS PROJECT</b>
