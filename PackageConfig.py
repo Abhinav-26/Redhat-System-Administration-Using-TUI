@@ -1,5 +1,6 @@
 import os
 
+############################################ For Local System
 def PkgManagement():
 
 	os.system("clear")
@@ -58,6 +59,7 @@ Press 06: TO EXIT\n""")
 
 
 
+############################################ For Remote System
 def RemotePkgManagement(IP):
 
 	os.system("clear")
