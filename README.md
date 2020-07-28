@@ -1,5 +1,5 @@
 # Redhat-System-Administration-Using-TUI
-This tool is something which can be used by RedHat System Administration for monitoring and performing some basic tasks on the main system as well as remote system also. Combining Python3 and Linux knowledge to build a Text-based User Interface from which you can moniter and configure Redhat Linux 8 ( or other rpm based Linux distros ) without any Linux knowledge. 
+This tool is something which can be used by RedHat System Administration for monitoring and performing some basic tasks on the main system as well as remote system also. Combining Python3 and Linux knowledge to build a Text-based User Interface from which you can moniter and configure Redhat Linux 8 ( or other rpm based Linux distros ) without any Linux knowledge. It might be useful for the SystemAdin guys.
 
 Also I have used some of the Object Oriented Programming Concepts to build this application.
 
